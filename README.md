@@ -5,6 +5,6 @@ Now I know how to make several items with points:
 * Item 2
 * Item 3
 ... and with numbers:
-* #1
-* #2
-* #3
+1. tary-bary
+2. tary-bary
+3. tra-ta-ta!
